@@ -8,7 +8,7 @@
 
 ###
 
-<h3 align="left">About Me</h3>
+<h2 align="left">About Me</h2>
 <p align="left"><br>- 🔭 I’m currently working on Learn Sci & BKHK <br>- 📚  I’m currently learning JS <br> </p>
 
 ###
