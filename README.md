@@ -13,7 +13,7 @@
 
 ###
 
-<h3 align="left">🔥   My Stats :</h3>
+<h3 align="center">🔥   My Stats :</h3>
 
 ###
 
@@ -25,7 +25,7 @@
 
 <h3 align="center">What im listening to!</h3>&nbsp;
  
-[![spotify-github-profile](https://spotify-github-profile.kittinanx.com/api/view?uid=31wdnxzzmj2hxhiprwjcftvbm2yq&cover_image=true&theme=novatorem&show_offline=false&background_color=121212&interchange=true&bar_color=53b14f&bar_color_cover=true)](https://github.com/kittinan/spotify-github-profile)
+[![spotify-github-profile](https://spotify-github-profile.kittinanx.com/api/view?uid=31wdnxzzmj2hxhiprwjcftvbm2yq&cover_image=true&theme=novatorem&show_offline=false&background_color=121212&interchange=true&bar_color=53b14f&bar_color_cover=true)]
 
 
 
