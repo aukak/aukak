@@ -1,9 +1,9 @@
 ## Hi there 👋
 
-- 🔭 I’m currently working on learn Sci & BKHK
-- 🌱 I’m currently learning JS
-- 📫 How to reach me: Discord
-- 😄 Pronouns: He/Him
+- 🖥️ I’m currently working on learn Sci & BKHK
+- 💍 I’m currently learning JS
+- 🖊️ How to reach me: Discord
+- 🤴 Pronouns: He/Him
 
 
 
