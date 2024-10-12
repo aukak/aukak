@@ -12,7 +12,7 @@
 
 ###
 
-<p align="left"><br>- 🔭 I’m currently working on Learn Sci & BKHK ...<br>- 📚  I’m currently learning JS ...<br>- </p>
+<p align="left"><br>- 🔭 I’m currently working on Learn Sci & BKHK ...<br>- 📚  I’m currently learning JS ...<br> </p>
 
 ###
 
@@ -21,7 +21,7 @@
 ###
 
 <div align="center">
-  <img src="https://streak-stats.demolab.com?user=maurodesouza&locale=en&mode=daily&theme=dark&hide_border=false&border_radius=5&order=3" height="220" alt="streak graph"  />
+  <img src="https://streak-stats.demolab.com?user=aukak&locale=en&mode=daily&theme=dark&hide_border=false&border_radius=5&order=3" height="220" alt="streak graph"  />
 </div>
 
 ###
