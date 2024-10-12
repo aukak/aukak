@@ -8,8 +8,8 @@
 
 ###
 
-<h2 align="left">About Me</h2>
-<p align="left"><br>- 🔭 I’m currently working on Learn Sci & BKHK <br>- 📚  I’m currently learning JS <br> </p>
+<h2 align="center">About Me</h2>
+<p align="center"><br>- 🔭 I’m currently working on Learn Sci & BKHK <br>- 📚  I’m currently learning JS <br> </p>
 
 ###
 
@@ -23,7 +23,7 @@
 
 ###
 
-<h3 align"center">What im listening to!</h3>&nbsp;
+<h3 align="center">What im listening to!</h3>&nbsp;
  
 [![spotify-github-profile](https://spotify-github-profile.kittinanx.com/api/view?uid=31wdnxzzmj2hxhiprwjcftvbm2yq&cover_image=true&theme=novatorem&show_offline=false&background_color=121212&interchange=true&bar_color=53b14f&bar_color_cover=true)](https://github.com/kittinan/spotify-github-profile)
 
