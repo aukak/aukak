@@ -24,8 +24,9 @@
 ###
 
 <p align="center">
-    <img src="https://img.shields.io/badge/Visitor%20Count-aukak-blueviolet?style=for-the-badge&logo=GitHub" alt="Visitor Count">
+    <img src="https://profile-counter.glitch.me/aukak/count.svg" alt="Visitor Count" style="border-radius: 8px; box-shadow: 0 4px 8px rgba(0, 0, 0, 0.2);">
 </p>
+
 
 
 
