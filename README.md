@@ -22,9 +22,10 @@
 </div>
 
 ###
-<div align="center">
-<img src="![Visitor Count](https://profile-counter.glitch.me/{aukak}/count.svg)/>
-</div>
+
+<p align="center">
+    <img src="https://profile-counter.glitch.me/{aukak}/count.svg" alt="Visitor Count">
+</p>
 
 
 
