@@ -23,7 +23,7 @@
 
 ###
 <div align="center">
-<img src="(https://profile-counter.glitch.me/{aukak}/count.svg)/>
+<img src="![Visitor Count](https://profile-counter.glitch.me/{aukak}/count.svg)/>
 </div>
 
 
