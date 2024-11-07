@@ -9,7 +9,7 @@
 ###
 
 <h2 align="center">About Me</h2>
-<p align="center"><br>- 🔭 I’m currently working on Learn Sci & BKHK <br>- 📚  I’m currently learning JS <br> </p>
+<p align="center"><br>- 🔭 I’m currently working on Unknowned <br>- 📚  I’m currently learning JS <br> </p>
 
 ###
 
