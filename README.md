@@ -8,7 +8,7 @@
 
 ###
 
-<h2 align="center">About Me</h2>
+<h2 align="center">info</h2>
 <p align="center"><br>- newest projext and working on: truffled.lol <br>- new learning language: c# <br> </p>
 
 ###
