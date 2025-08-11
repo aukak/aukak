@@ -9,11 +9,11 @@
 ###
 
 <h2 align="center">About Me</h2>
-<p align="center"><br>- 🔭 I’m currently working on Truffled <br>- 📚  I’m currently learning JS <br> </p>
+<p align="center"><br>- newest projext and working on: truffled.lol <br>- new learning language: c# <br> </p>
 
 ###
 
-<h3 align="center">🔥   My Stats :</h3>
+<h3 align="center">stats</h3>
 
 ###
 
