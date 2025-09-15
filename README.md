@@ -9,7 +9,7 @@
 ###
 
 <h2 align="center">info</h2>
-<p align="center"><br>- newest projext and working on: truffled.lol <br>- new learning language: c# <br> </p>
+<p align="center"><br>- newest projext and working on: truffled.lol <br>- new learning language: c# <br> <br>- PLEASE ASK FOR PERMISSION BEFORE ADDING MY PORTS!! <br> </p>
 
 ###
 
