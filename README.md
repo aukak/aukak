@@ -19,7 +19,7 @@ align="center">
 </h2>
 <p 
   align="center">
-  <br>everything about me is @ [bog.lat](https://bog.lat)
+  <br>everything about me is @ <a href="https://bog.lat">bog.lat</a>
   <br>
 </p>
 <div 
