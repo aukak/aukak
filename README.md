@@ -1,31 +1,313 @@
-<div 
-align="center">
-  <img 
-    height="150" 
-    src="https://avatars.githubusercontent.com/u/119977760?v=4"  
-    />
-</div>
+<!DOCTYPE html>
+<html 
+    lang="en">
+<head>
 
-###
+<base
+href="https://cdn.jsdelivr.net/gh/aukak/biosite@latest/"
+
+<meta 
+    charset="UTF-8">
+<meta 
+    name="viewport" 
+    content="width=device-width,initial-scale=1.0,maximum-scale=1.0,user-scalable=no">
+<title>bog</title>
+<link 
+    rel="stylesheet" 
+    href="https://fonts.googleapis.com/css2?family=Material+Symbols+Rounded:opsz,wght,FILL,GRAD@20..48,100..700,0..1,-50..200">
+<link 
+    rel="stylesheet" 
+    href="b.css?v=5">
+</head>
+<body>
+<nav 
+    class="navbar" 
+    id="navbar">
+<div 
+    class="nav-container">
+<a 
+    href="#home" 
+    class="nav-link active">
+        home</a>
+<a 
+    href="#about" 
+    class="nav-link">
+    about</a>
+<a 
+    href="#blog" 
+    class="nav-link">
+    blog</a>
+<a 
+    href="#contact" 
+    class="nav-link">
+    contact</a>
+</div>
+</nav>
+<main 
+    class="main-content" 
+    id="mainContent">
+<section 
+    id="home" 
+    class="page active">
+<div 
+    class="hero">
+<div 
+    class="pfp-wrapper">
+<img 
+    src="assets/images/bog.webp" 
+    alt="pfp" 
+    class="pfp" 
+    onerror="">
+</div>
 <h1 
-  align="center">
-  hi im bog
-</h1>
-
-###
-<h2 
-  align="center">
-  info
-</h2>
+    class="username">
+    bog</h1>
 <p 
-  align="center">
-  <br>everything about me is @ <a href="https://bog.lat">bog.lat</a>
-  <br>
+    class="tagline" 
+    id="clock">
 </p>
-<div 
-align="center">
-
-![](https://komarev.com/ghpvc/?username=aukak&style=flat-square&color=grey)
 </div>
-
-
+</section>
+<section 
+    id="about" 
+    class="page">
+<div 
+    class="content-wrapper">
+<h2 
+    class="page-title">
+    about me.</h2>
+<div 
+    class="about-content">
+        <p>hi im bog & aukak & im 14, i like to code and make unblocked game websites. my current project is truffled, i have made over 1K$ off it and im very proud of it.</p>
+        <p>i aswell like to decompile games to webgl and started from 98corbins & breadbb; so thank them for making me start; i have ported hollow knight, hollow knight: silksong & capuchin to webgl.</p>
+        <p>i live in central daylight time so keep a reminder of it</p>
+</div>
+<div 
+    class="skills">
+<span 
+    class="skill-tag">
+    frontend</span>
+<span 
+    class="skill-tag">
+    reverse engineering</span>
+</div>
+</div>
+</section>
+<section 
+    id="blog" 
+    class="page">
+<div 
+    class="content-wrapper blog-wrapper">
+<h2 
+    class="page-title">
+    blog.</h2>
+<div 
+    class="blog-layout">
+<div 
+    class="blog-list" 
+    id="blogList">  
+<button 
+    class="blog-link active" 
+    data-blog="truffled">
+    how i made truffled</button>
+</div>
+<article 
+    class="blog-post markdown-body" 
+    id="blogPost">
+</article>
+</div>
+</div>
+</section>
+<section 
+    id="contact" 
+    class="page">
+<div 
+    class="content-wrapper">
+<h2 
+    class="page-title">
+    contact.</h2>
+<div 
+    class="contact-grid">
+<a 
+    href="mailto:bog@truffled.lol" 
+    class="contact-card">
+<span 
+    class="contact-label">
+    email</span>
+<span 
+    class="contact-value">
+    bog@truffled.lol</span>
+</a>
+<a 
+    href="https://twitter.com/@boogibuck" 
+    target="_blank" 
+    rel="noopener" 
+    class="contact-card">
+<span 
+    class="contact-label">
+    twitter</span>
+<span 
+    class="contact-value">
+    @boogibuck</span>
+</a>
+<a 
+    href="https://github.com/aukak" 
+    target="_blank" 
+    rel="noopener" 
+    class="contact-card">
+<span 
+    class="contact-label">
+    github</span>
+<span 
+    class="contact-value">
+    aukak</span>
+</a>
+<a 
+    href="https://discord.gg/truffled" 
+    target="_blank" 
+    rel="noopener" 
+    class="contact-card">
+<span 
+    class="contact-label">
+    discord</span>
+<span  
+    class="contact-value">
+    boogibuck</span>
+</a>
+</div>
+</div>
+</section>
+</main>
+<audio 
+    id="bgAudio" 
+    preload="metadata">
+<source 
+    src="assets/audio/b.mp3" 
+    type="audio/mpeg">
+</audio>
+<div 
+    class="music-popunder" 
+    id="musicPlayer">
+<button 
+    class="music-tab" 
+    id="musicToggle" 
+    type="button">
+<span 
+    class="material-symbols-rounded">
+    music_note</span>
+</button>
+<img 
+    src="assets/images/bog.webp" 
+    alt="album cover" 
+    class="track-cover" 
+    id="trackCover">
+<div 
+    class="track-main">
+<div 
+    class="track-row">
+<span 
+    class="track-name" 
+    id="trackName">
+    b</span>
+<div 
+    class="track-controls">
+<button 
+    id="prevTrack" 
+    type="button">
+<span 
+    class="material-symbols-rounded">
+    skip_previous</span>
+</button>
+<button 
+    id="playPause" 
+    type="button" 
+    class="play-button">
+<span 
+    class="material-symbols-rounded">
+    play_arrow</span>
+</button>
+<button 
+    id="nextTrack" 
+    type="button">
+<span 
+    class="material-symbols-rounded">
+    skip_next</span>
+</button>
+</div>
+</div>
+<input 
+    id="trackProgress" 
+    type="range" 
+    min="0" 
+    max="100" 
+    step="0.1" 
+    value="0">
+</div>
+</div>
+<aside 
+    class="asset-popout" 
+    id="assetPopout">
+<button 
+    class="asset-toggle" 
+    id="assetToggle" 
+    type="button">
+<span 
+    class="material-symbols-rounded">
+    chevron_right</span>
+</button>
+<div 
+    class="asset-panel">
+<img 
+    src="assets/images/gifs/bog.lat.gif" 
+    alt="bog lat">
+<img 
+    src="assets/images/gifs/bestchrome.gif" 
+    alt="best chrome">
+<img 
+    src="assets/images/gifs/html5.gif" 
+    alt="html5">
+<img 
+    src="assets/images/gifs/mw.gif" 
+    alt="mercury workshop">
+<img 
+    src="assets/images/gifs/letsnotencrypt.gif" 
+    alt="lets not encrypt">
+<img 
+    src="assets/images/gifs/vscbutton.gif" 
+    alt="vsc button">
+<img 
+    src="assets/images/gifs/bomberfish.gif" 
+    alt="bomberfish">
+<img 
+    src="assets/images/gifs/moz.gif" 
+    alt="mozilla">
+<img 
+    src="assets/images/gifs/linuxpowered.gif" 
+    alt="linux powered">
+<img 
+    src="assets/images/gifs/ng.gif" 
+    alt="new grounds">
+<img 
+    src="assets/images/gifs/wearr.gif" 
+    alt="wearr">
+<img 
+    src="assets/images/gifs/wii.gif" 
+    alt="wii">
+<img 
+    src="assets/images/gifs/velzie.gif" 
+    alt="velzie">
+<img 
+    src="assets/images/gifs/twitter.gif" 
+    alt="twitter">
+<img 
+    src="assets/images/gifs/notepad.gif" 
+    alt="">
+<img 
+    src="assets/images/gifs/foxmoss.gif" 
+    alt="foxmoss">
+</div>
+</aside>
+<script 
+    src="bgp.js?v=5"></script>
+</body>
+</html>
